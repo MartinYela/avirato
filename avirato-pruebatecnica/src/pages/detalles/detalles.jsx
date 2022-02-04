@@ -5,6 +5,7 @@ import './style.css';
 export default function Details() {
 
     const [listUsers, setListUSers] = useState([]);
+    // En la línea de abajo he hecho un renderizado condicional para que si no hay token no de error, y salga un mensaje. No me dio tiempo a hacerlo mejor
     const hasToken = sessionStorage.getItem('access_token')===null?false:true;
     
 
