@@ -43,7 +43,7 @@ export default function Details() {
             </div>
             </div>
             
-            :<h1>Tienes que loguearte para entrar a está sección, por favor ve al <Link to='/avirato'>login</Link></h1>}
+            :<h1 className='center_text'>Tienes que loguearte para entrar a está sección, por favor ve al <Link to='/avirato'>login</Link></h1>}
         </div>
 
     )
