@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/avirato/static/css/main.2360872f.css",
+    "main.js": "/avirato/static/js/main.fd73dff9.js",
+    "static/js/787.1840caf0.chunk.js": "/avirato/static/js/787.1840caf0.chunk.js",
+    "index.html": "/avirato/index.html",
+    "main.2360872f.css.map": "/avirato/static/css/main.2360872f.css.map",
+    "main.fd73dff9.js.map": "/avirato/static/js/main.fd73dff9.js.map",
+    "787.1840caf0.chunk.js.map": "/avirato/static/js/787.1840caf0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2360872f.css",
+    "static/js/main.fd73dff9.js"
+  ]
+}
