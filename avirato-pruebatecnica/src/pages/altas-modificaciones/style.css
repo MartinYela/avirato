@@ -1,0 +1,37 @@
+.altas_container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    margin: 2rem 0;
+}
+.titleAltas{
+    width: 400px;
+}
+.form_container{
+    padding: 20px;
+    box-shadow: 0px 0px 4px rgb(0 0 0 / 20%);
+    background: white;
+    border: none;
+    border-radius: 8px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.form_container input{
+    width: 100%;
+    background: #fff;
+    border: 1px solid #ededed;
+    box-sizing: border-box;
+    margin: 0;
+    margin-bottom: 10px;
+    box-shadow: 0px 1px 5px rgb(0 0 0 / 10%);
+    border-radius: 30px;
+    padding: 0 20px;
+    height: 36px;
+}
+input:focus{
+    border: 1px solid #2979FF;
+    outline: #2979FF;
+}

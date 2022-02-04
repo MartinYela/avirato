@@ -1,0 +1,13 @@
+footer{
+    background-color: #e7e7e7;
+    height: 150px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 0.5rem 0;
+}
+.need_help{
+   color: #2979ff; 
+   font-size: 1.2rem;
+}

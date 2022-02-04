@@ -1,0 +1,40 @@
+header{
+    background-color: #064DC6;
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5rem;
+    font-weight: bold;
+}
+.logo{
+    height: 38px;
+}
+.listMenu {
+    list-style: none;
+    display: flex;
+    gap: 1rem; 
+}
+.listMenu a:hover{
+    color: orange;
+}
+.listMenu a{
+    text-decoration: none;
+    color: white;
+}
+
+@media (max-width:800px){
+    header{
+        padding: 0 4rem;
+    }
+}
+@media (max-width:600px){
+    header{
+        padding: 0 3rem;
+    }
+}
+@media (max-width:400px){
+    header{
+        padding: 0 1rem;
+    }
+}

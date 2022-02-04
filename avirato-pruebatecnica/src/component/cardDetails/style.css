@@ -1,0 +1,18 @@
+.card_container{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 5px;
+    box-shadow: 0px 0px 4px rgb(0 0 0 / 20%);
+    background: white;
+    border: none;
+    border-radius: 8px;
+}
+.border_bottom{
+    border-bottom: 2px solid #2979FF;
+    font-size: 1.5rem;
+    text-align: center;
+    padding-bottom: 5px;
+}
