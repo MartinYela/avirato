@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import CardDetails from '../../component/cardDetails/cardDetails';
 import './style.css';
+import { Link } from 'react-router-dom';
 
 export default function Details() {
 
@@ -42,7 +43,7 @@ export default function Details() {
             </div>
             </div>
             
-            :<h1>Tienes que loguearte para entrar a está sección, por favor ve al <a href='/'>login</a></h1>}
+            :<h1>Tienes que loguearte para entrar a está sección, por favor ve al <Link to='/'>login</Link></h1>}
         </div>
 
     )
