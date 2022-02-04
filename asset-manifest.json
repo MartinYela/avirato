@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/avirato/static/css/main.2360872f.css",
-    "main.js": "/avirato/static/js/main.1d87107f.js",
+    "main.css": "/avirato/static/css/main.30dabaf7.css",
+    "main.js": "/avirato/static/js/main.0e974182.js",
     "static/js/787.1840caf0.chunk.js": "/avirato/static/js/787.1840caf0.chunk.js",
     "index.html": "/avirato/index.html",
-    "main.2360872f.css.map": "/avirato/static/css/main.2360872f.css.map",
-    "main.1d87107f.js.map": "/avirato/static/js/main.1d87107f.js.map",
+    "main.30dabaf7.css.map": "/avirato/static/css/main.30dabaf7.css.map",
+    "main.0e974182.js.map": "/avirato/static/js/main.0e974182.js.map",
     "787.1840caf0.chunk.js.map": "/avirato/static/js/787.1840caf0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2360872f.css",
-    "static/js/main.1d87107f.js"
+    "static/css/main.30dabaf7.css",
+    "static/js/main.0e974182.js"
   ]
 }
